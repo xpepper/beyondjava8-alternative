@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 title: beyond-java-8
-description: This is an example slide deck created with md-slides-template
+description: This is a simple example slide deck created with md-slides-template
 ---
 
 # Beyond 
